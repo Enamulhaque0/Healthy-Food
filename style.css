@@ -1,5 +1,5 @@
-/* *{margin: 0;
-    padding: 0;} */
+*{margin: 0;
+    padding: 0;}
 
 .order {
   display: flex;
@@ -52,10 +52,15 @@ p {
   margin-left: 300px;
 }
 
+.recipies-container{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
 
 .recipies {
   text-align: center;
-  margin-bottom: 90px;
+  margin: 90px;
+  
   
 }
 .recipies-title{
@@ -74,4 +79,17 @@ p {
    width: 100%;
    margin-left: 100px;
     
+}
+
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 90px;
+    padding: 80px;
+    
+}
+.eat{
+    margin: 60px;
 }
