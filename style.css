@@ -1,0 +1,55 @@
+/* *{margin: 0;
+    padding: 0;} */
+
+.order {
+  display: flex;
+  margin-left: 40px;
+  
+}
+.order img{
+    width: 70%;
+}
+.skip {
+  color: orange;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+}
+p {
+  font-weight: 20px;
+}
+
+.btn-order {
+  background-image: linear-gradient(#FBA24F, #FF1E1E );
+  color: antiquewhite;
+  border-radius: 30px;
+  padding: 13px 32px;
+  font-size: medium;
+  margin-top: 15px;
+}
+.bg-image{
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    
+   
+}
+
+.abt-me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-top: 80px;
+}
+
+.abt-image{
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.about-me{
+    margin-left: 300px;
+}
