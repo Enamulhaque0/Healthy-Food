@@ -23,7 +23,9 @@ h1 {
 p {
   font-weight: 20px;
 }
-
+p {
+  font-family: "Quicksand", sans-serif;
+}
 .btn-order {
   background-image: linear-gradient(#fba24f, #ff1e1e);
   color: antiquewhite;
