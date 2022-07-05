@@ -4,10 +4,9 @@
 .order {
   display: flex;
   margin-left: 40px;
-  
 }
-.order img{
-    width: 70%;
+.order img {
+  width: 70%;
 }
 .skip {
   color: orange;
@@ -24,32 +23,55 @@ p {
 }
 
 .btn-order {
-  background-image: linear-gradient(#FBA24F, #FF1E1E );
+  background-image: linear-gradient(#fba24f, #ff1e1e);
   color: antiquewhite;
   border-radius: 30px;
   padding: 13px 32px;
   font-size: medium;
   margin-top: 15px;
 }
-.bg-image{
-    background-image: url(images/shapes/Group\ 8450.png);
-    background-repeat: no-repeat;
-    
-   
+.bg-image {
+  background-image: url(images/shapes/Group\ 8450.png);
+  background-repeat: no-repeat;
 }
 
-.abt-me{
+.abt-me {
+  display: flex;
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+  margin-top: 80px;
+  margin-bottom: 90px;
+}
+
+.abt-image {
+  width: 200px;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.about-me {
+  margin-left: 300px;
+}
+
+
+.recipies {
+  text-align: center;
+  margin-bottom: 90px;
+  
+}
+.recipies-title{
+    margin-left: 70px;
+}
+.recipies-title img {
+  height: 250px;
+  width: 350px;
+  left: 130px;
+  top: 1801px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px;
+}
+.flex-div{
     display: flex;
-    background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;
-    margin-top: 80px;
-}
-
-.abt-image{
-    width: 200px;
-    margin-left: 200px;
-    margin-top: 40px;
-}
-.about-me{
-    margin-left: 300px;
+   width: 100%;
+   margin-left: 100px;
+    
 }
